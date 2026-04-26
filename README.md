@@ -41,11 +41,11 @@ The system state is stored as a flattened array consisting of interleaved positi
 ![leapfrog_output](leapfrog_output.gif)
 	
 	
-### Future Enhancements
+### **Future Enhancements**
 
 	- This script can be expanded to include more integration methods
 	- The initial conditions can be adjusted to simulate systems with a dominant central mass
 
-### References
+### **References**
 
     - Standard numerical integration methods (RK4, leapfrog) as described in *Computational Physics* (Mark Newman)
